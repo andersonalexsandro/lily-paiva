@@ -1,8 +1,74 @@
-# 🌸 Lírios Rosa Animados - Beatriz
+# 🌸 Lírios Rosa para Beatriz Paiva
 
-Uma bela animação de lírios rosa com saudação personalizada baseada no horário do dia.
+Uma linda animação de lírios rosa com saudação dinâmica baseada no horário do dia.
 
-## ✨ Funcionalidades
+## ✨ Características
+
+- **Animação de lírios rosa** com pétalas realistas
+- **Saudação dinâmica** que muda baseada no horário:
+  - 🌅 "Bom dia" (5:00 - 11:59)
+  - ☀️ "Boa tarde" (12:00 - 17:59) 
+  - 🌙 "Boa noite" (18:00 - 4:59)
+- **Fundo mágico** com gradientes suaves
+- **Efeitos de partículas** de luz
+- **Animações suaves** de crescimento e movimento
+- **Design responsivo** para diferentes tamanhos de tela
+
+## 🎨 Tecnologias Utilizadas
+
+- **HTML5** - Estrutura semântica
+- **CSS3/SCSS** - Estilização e animações
+- **JavaScript** - Lógica da saudação dinâmica
+- **CSS Animations** - Efeitos visuais
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/andersonalexsandro/lily-paiva.git
+```
+
+2. Abra o arquivo `beatriz.html` em seu navegador
+
+Ou acesse diretamente: [https://andersonalexsandro.github.io/lily-paiva/](https://andersonalexsandro.github.io/lily-paiva/)
+
+## 📁 Estrutura do Projeto
+
+```
+lily-paiva/
+├── beatriz.html      # Página principal
+├── beatriz.css       # Estilos compilados
+├── beatriz.css.map   # Mapa de estilos
+├── beatriz.scss      # Estilos fonte (SCSS)
+├── beatriz.js        # Lógica JavaScript
+├── package.json      # Configurações do projeto
+└── README.md         # Este arquivo
+```
+
+## 🎯 Funcionalidades
+
+### Animações
+- Crescimento gradual das flores
+- Movimento suave das pétalas
+- Partículas de luz flutuantes
+- Grama balançando no vento
+
+### Interatividade
+- Saudação personalizada "Beatriz!"
+- Detecção automática do horário
+- Efeitos de brilho e sombra
+
+## 🌟 Inspiração
+
+Inspirado no trabalho artístico de Yup Nguyen: [Virtual Garden](https://dribbble.com/shots/11096994-Virtual-Garden)
+
+## 💝 Dedicado com carinho para Beatriz Paiva
+
+Este projeto foi criado especialmente para trazer um sorriso e momentos de beleza durante o dia.
+
+---
+
+Feito com ❤️ e muito carinho
 
 - **Lírios Rosa Animados**: Flores que crescem e se balançam suavemente
 - **Saudação Dinâmica**: Exibe "Bom dia", "Boa tarde" ou "Boa noite" + "Beatriz!" baseado no horário
@@ -19,7 +85,7 @@ Uma bela animação de lírios rosa com saudação personalizada baseada no hor�
 
 ## 🚀 Como visualizar
 
-1. **Online**: [Acesse aqui](https://seu-usuario.github.io/beatriz-paiva)
+1. **Online**: [Acesse aqui](https://andersonalexsandro.github.io/lily-paiva)
 2. **Localmente**: 
    - Clone o repositório
    - Abra o arquivo `beatriz.html` no navegador
