@@ -1,4 +1,4 @@
-# 🌸 Lírios Rosa para Beatriz Paiva
+# 🌸 Lírios Rosa
 
 Uma linda animação de lírios rosa com saudação dinâmica baseada no horário do dia.
 
